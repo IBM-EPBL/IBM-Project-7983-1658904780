@@ -24,15 +24,15 @@
 <br>
 <h2>📃 Abstract:</h2><i>
 <ul>
-<li>This project describes  various methods of Data Mining , big data</li>
-<li>and machine learning models for predicting the heart disease. Data mining and</li>
-<li>machine learning plays an important role in building an important model for</li>
-<li>medical system to predict heart disease or cardiovascular disease. Medical</li>
-<li>experts can help the patients by detecting the cardiovascular disease before</li>
-<li>occurring. Now-a-days heart disease is one of the most significant causes of</li>
-<li>fatality. The prediction of heart disease is a critical challenge in the clinical area.</li>
-<li>but time-to-time, several techniques are discovered to predict the heart disease</li>
-<li>in data mining. In this project, many techniques were described for prdicting the heart disease.</li>
+<li>This project describes  various methods of Data Mining , big data
+    and machine learning models for predicting the heart disease. Data mining and
+    machine learning plays an important role in building an important model for
+    medical system to predict heart disease or cardiovascular disease. Medical
+    experts can help the patients by detecting the cardiovascular disease before
+    occurring. Now-a-days heart disease is one of the most significant causes of
+    fatality. The prediction of heart disease is a critical challenge in the clinical area
+    but time-to-time, several techniques are discovered to predict the heart disease
+    in data mining. In this project, many techniques were described for prdicting the heart disease.</li>
   </i>
   </ul>
 <br>
